@@ -1,5 +1,5 @@
 {
-  "name": "sodonnell/SlackAlerts",
+  "name": "sodonnell/slack-alerts",
   "description": "A simple Alert Bot for Slack Channels",
   "type": "library",
   "keywords" : ["Slack", "ChatBots", "API"],
