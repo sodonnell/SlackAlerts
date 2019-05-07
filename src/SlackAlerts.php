@@ -16,7 +16,7 @@ class SlackAlerts
     
     public function __construct()
     {
-        print "--- SlackBot.v1.0 ---\n";
+        print "--- SlackAlerts.v1.0 ---\n";
         return;
     }
     public static function init($token)
