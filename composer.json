@@ -1,0 +1,17 @@
+{
+  "name": "sodonnell/SlackAlerts",
+  "description": "A simple Alert Bot for Slack Channels",
+  "type": "library",
+  "keywords" : ["Slack", "ChatBots", "API"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sean O'Donnell",
+      "email": "sean@seanodonnell.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.0.0",
+    "ext-curl": "*"
+  }
+}
